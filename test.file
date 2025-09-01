@@ -1,0 +1,11 @@
+test_case = {
+    'Age': 35,
+    'Sex': 'male',
+    'Job': 3,
+    'Housing': 'own',
+    'Saving accounts': 'rich',
+    'Checking account': 'rich',
+    'Credit amount': 3000,
+    'Duration': 12,
+    'Purpose': 'car'
+}
